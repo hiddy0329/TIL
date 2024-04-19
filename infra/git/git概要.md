@@ -10,8 +10,8 @@ Gitとは「**誰が**」、「**何を**」、「**いつ**」、「**何のた
 Gitの特徴は、`分散型バージョン管理`という仕組みにある。Gitが登場する以前のバージョン管理ツールでは、リモートサーバー上にある一つのリモートリポジトリを起点としてそこから作業者が各自のPCにファイルを取り込み作業を行なっていた。つまり`集中型バージョン管理`という状態である。
 バージョン管理をリモートリポジトリ1つで行うということに加え、ファイルの変更履歴の追跡に時間がかかるなどの問題があることにより、その問題を解決するため、「分散型バージョン管理ツール」としてのGitが登場した。
 
-参考)[Git と SVN: 違いは何ですか?](https://odsc.medium.com/git-vs-svn-whats-the-difference-2c7072f7679f#:~:text=The%20primary%20difference%20between%20Git,as%20a%20revision%20control%20system.)
-参考)[GitとSubversionの構造的な違い】GitのブランチはSubversionのブランチとは全く違うモノ～](https://www.ricksoft.jp/blog/articles/001410.html)
+- 参考)[Git と SVN: 違いは何ですか?](https://odsc.medium.com/git-vs-svn-whats-the-difference-2c7072f7679f#:~:text=The%20primary%20difference%20between%20Git,as%20a%20revision%20control%20system.)
+- 参考)[GitとSubversionの構造的な違い】GitのブランチはSubversionのブランチとは全く違うモノ～](https://www.ricksoft.jp/blog/articles/001410.html)
 
 「分散型」という名の通り、一つのリモートリポジトリに加え、**複数の作業者自身のローカルPC上でも分散してバージョン管理をすることができる**という特徴がある。
 
