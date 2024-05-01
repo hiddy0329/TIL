@@ -21,13 +21,13 @@ Route53は、DNSの機能を提供するAWSのフルマネージドサービス�
 - Route53ではトラフィックのルーティングの仕方において、様々な手法を用意している。それらを「**ルーティングポリシー**」という形でまとめている。
   - シンプルルーティングポリシー：ドメインとリソースのIPを1対1で紐付ける最もシンプルなルーティング方法。
   - フェイルオーバールーティングポリシー：サーバーダウン時のフェイルオーバー先のルーティングを管理する方法。
-[参考：ルーティングポリシーの選択](https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/routing-policy.html)
+  - [参考：ルーティングポリシーの選択](https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/routing-policy.html)
 
 ### レコード管理
 
 - Route53では通常のDNSサーバーと同様、トラフィックのルーティング内容について、「**レコード**」という形で管理している。以下参考情報のように、多様な「レコードタイプ」
 が存在する。
-[参考：サポートされるDNSレコードタイプ](https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#CNAMEFormat)
+- [参考：サポートされるDNSレコードタイプ](https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#CNAMEFormat)
 
 ### ヘルスチェック
 
