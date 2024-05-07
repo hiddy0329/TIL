@@ -11,11 +11,8 @@
 - サーバー側には毎回毎回コンテンツをレスポンスする手間がなくなり、負荷の軽減につながる。
 - ユーザー側にはキャッシュを利用した高速なコンテンツ配信を体験できるようになる。
 
-<img width="50%" height="50%" src="https://github.com/hiddy0329/TIL/assets/91509668/d6baebad-908d-4930-b6a7-6cec8b257afd">
-
-
 # CloudFront設定手順
-
+<img width="50%" height="50%" src="https://github.com/hiddy0329/TIL/assets/91509668/d6baebad-908d-4930-b6a7-6cec8b257afd">
 1. オリジンの作成（コンテンツの配信元となるサービス）を行う。対象サービスとしてはS3, EC2, ELBなどがある。
 2. CloudFrontのディストリビューションを作成する。
 3. ディストリビューションにおいて、オリジンの設定をする。（どのオリジンを対象とするのか）
