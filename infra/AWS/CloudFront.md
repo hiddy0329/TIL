@@ -10,7 +10,8 @@
 アクセスを実現させる。
 - サーバー側には毎回毎回コンテンツをレスポンスする手間がなくなり、負荷の軽減につながる。
 - ユーザー側にはキャッシュを利用した高速なコンテンツ配信を体験できるようになる。
-<img src="https://gyazo.com/7361f8b8193f5643ff8726894e4a0185" height="50%" width="50%">
+<img width="50%" height="50%" src="https://github.com/hiddy0329/TIL/assets/91509668/d6baebad-908d-4930-b6a7-6cec8b257afd">
+
 
 # CloudFront設定手順
 
