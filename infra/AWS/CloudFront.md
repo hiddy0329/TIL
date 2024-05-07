@@ -10,8 +10,7 @@
 アクセスを実現させる。
 - サーバー側には毎回毎回コンテンツをレスポンスする手間がなくなり、負荷の軽減につながる。
 - ユーザー側にはキャッシュを利用した高速なコンテンツ配信を体験できるようになる。
-![](https://i.gyazo.com/7361f8b8193f5643ff8726894e4a0185.png)
-- 上記画像は公式より引用|[Amazon CloudFront とは何ですか?](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+[![Image from Gyazo](https://i.gyazo.com/7361f8b8193f5643ff8726894e4a0185.png)](https://gyazo.com/7361f8b8193f5643ff8726894e4a0185)
 
 # CloudFront設定手順
 
