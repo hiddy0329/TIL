@@ -17,7 +17,7 @@
 
 <img width="50%" height="50%" src="https://github.com/hiddy0329/TIL/assets/91509668/d6baebad-908d-4930-b6a7-6cec8b257afd">
 
-[AmazonCloudFrontとは何ですか?](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+[公式より引用|AmazonCloudFrontとは何ですか?](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 
 1. オリジンの作成（コンテンツの配信元となるサービス）を行う。対象サービスとしてはS3, EC2, ELBなどがある。
 2. CloudFrontのディストリビューションを作成する。
