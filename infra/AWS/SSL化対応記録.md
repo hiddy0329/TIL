@@ -13,9 +13,9 @@
 5. 証明書のDNSレコードをRoute53にて登録し、自身がドメイン取得者であることを検証する。
 6. CloudFrontディストリビューションの設定
     - ポリシー設定などの各種設定をチュートリアルに沿って実施する（https://medium.com/@diyar.parwana/step-by-step-guide-to-create-a-cloudfront-distribution-for-ec2-cbf5b7862c41)
-  - Route 53でDNS設定を更新し、ドメインの向き先をCloudFrontに向けるように設定を更新する。
-  - EC2のセキュリティグループを更新し、CloudFrontからのHTTP通信のみを許可するよう設定する。
-  - Laravelの設定を更新（主にCSSの参照パスをhttpsに変更）
-  - 接続テストを実施する
+    - Route 53でDNS設定を更新し、ドメインの向き先をCloudFrontに向けるように設定を更新する。
+    - EC2のセキュリティグループを更新し、CloudFrontからのHTTP通信のみを許可するよう設定する。
+    - Laravelの設定を更新（主にCSSの参照パスをhttpsに変更）
+    - 接続テストを実施する
 
 
