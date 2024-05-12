@@ -19,5 +19,5 @@
     - 接続テストを実施する
 
 # 参考情報
-- [CloudFront+EC2でのSSL化対応手順参考](https://medium.com/@diyar.parwana/step-by-step-guide-to-create-a-cloudfront-distribution-for-ec2-cbf5b7862c41)
+- [CloudFront Distribution for EC2, Step-by-Step Guide](https://medium.com/@diyar.parwana/step-by-step-guide-to-create-a-cloudfront-distribution-for-ec2-cbf5b7862c41)
 
