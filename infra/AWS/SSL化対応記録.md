@@ -3,7 +3,7 @@
 - 業務において、**AWSクライアントVPN通信の廃止**と**サイトSSL化対応**が必要になったため、その作業記録を残していく。
 
 # おまかな環境構成
-<img src="https://i.gyazo.com/7470be4f342b251e68d1b05e88981a86.png" width="50%" height="50%">
+<img src="https://github.com/hiddy0329/TIL/assets/91509668/7a2b0673-68ea-4de0-aa6b-e24423d2a67a" width="50%" height="50%">
 
 # 詳細手順
 1. Route 53でドメイン取得を行う
