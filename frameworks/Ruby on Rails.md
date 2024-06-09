@@ -4,4 +4,7 @@
 # 環境構築
 - 必要なもの
   - Ruby
-  - Node.js 
+  - Node.js
+  - yarn
+  - bundler
+  - rbenv or rvm
