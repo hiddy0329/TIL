@@ -6,6 +6,7 @@
 
 - 処理概要としては以下のイメージ。
 <img src="https://github.com/hiddy0329/TIL/assets/91509668/21650465-ee94-4906-ac3d-f528f46c2786" width="50%" height="50%">
+
 - 上図の処理の中で、DomPDFを使用して請求データの数だけ繰り返しでPDFデータを生成するという基本的な処理の流れとなる。
 
 # 問題点
@@ -27,3 +28,7 @@
 - 以後はパフォーマンスの改善を目指して以下のような解決策を試してみる必要がありそうだ。
   - 他の無料ライブラリの検討
   - 生成処理において、複数のチャンクごとの処理に変更し、毎回メモリを解放できるようにする。
+
+# 参考情報
+- [Performance suggestions for HTML source](https://github.com/dompdf/dompdf/wiki/Performance)
+- [dompdf memory issues](https://stackoverflow.com/questions/2323045/dompdf-memory-issues)
