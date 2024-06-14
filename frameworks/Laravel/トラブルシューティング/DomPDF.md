@@ -12,4 +12,4 @@
 
 - DomPDFは「HTML」によって描画されたデータを「PDF」に変換する処理を実行するが、その際にHTMLの「tableタグ」の記述方法に問題があった。１つのtableタグの中で要素が多く展開され、
 結果的に複数ページにまたがるような形になってしまった場合、DomPDFが変換処理で迷ってしまい、速度の低下やメモリの大量消費に繋がっていしまっていた。
-<img width="50" height="50" alt="4cea0c0a4363c04372251ca9d227509a" src="https://github.com/hiddy0329/TIL/assets/91509668/3ff97af2-6d3a-449b-8279-1c34de51d15e">
+<img alt="4cea0c0a4363c04372251ca9d227509a" src="https://github.com/hiddy0329/TIL/assets/91509668/3ff97af2-6d3a-449b-8279-1c34de51d15e">
