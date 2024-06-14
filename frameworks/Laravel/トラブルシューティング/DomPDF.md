@@ -5,4 +5,4 @@
 # 処理概要
 
 - 処理概要としては以下のイメージ。
-![mermaid-diagram-2024-06-14-204730](https://github.com/hiddy0329/TIL/assets/91509668/21650465-ee94-4906-ac3d-f528f46c2786)
+<img src="https://github.com/hiddy0329/TIL/assets/91509668/21650465-ee94-4906-ac3d-f528f46c2786" width="50%" height="50%">
