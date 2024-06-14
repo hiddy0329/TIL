@@ -22,6 +22,7 @@
 <img width="901" alt="4191cf3c8a7464624a035a1d45eb5317" src="https://github.com/hiddy0329/TIL/assets/91509668/3ea7eda4-da6f-494e-a2ed-e269048ba7b5">
 
 - 具体的な改善内容の一例を示すと以下の通り。
+
 | 修正前処理時間 | 修正後処理時間 |
 | ---- | ---- |
 | 2時間 | 15分 |
