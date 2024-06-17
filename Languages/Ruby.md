@@ -44,3 +44,8 @@
     ```
     TAX = 1.8
     ```
+
+
+# Rubyと多言語との違い
+
+- [多言語からのRuby入門](https://www.ruby-lang.org/ja/documentation/ruby-from-other-languages/)
